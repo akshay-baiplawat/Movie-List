@@ -1,5 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+# About Project -> Movies List
+
+check out at https://movies-list-akshay-baiplawat.netlify.app/
+
+It is a movie listing website in we can search any movie or webseries and can know it's information such as IMDB rating, details, plot, etc.
+I have fetched the data from OMDB API.
+The tech stack used in this project includes HTML, CSS, JavaScript, React, React router and Material UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
