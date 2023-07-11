@@ -1,0 +1,30 @@
+.navdiv{
+    display: flex;
+    padding: 1rem;
+    /* justify-content: space-between; */
+    align-items: center;
+width: 100%;
+background-color: rgb(241, 243, 247) ;
+display: inline-flex;
+}
+
+.navbar{
+
+}
+
+.search{
+    margin-right: 1%;
+    margin-left: auto;
+    padding: 8px 0px;
+    padding-left: 8px;
+    border: none;
+    background: none;
+    border-radius: 8px;
+    color: rgb(13, 23, 44);
+    /* position: absolute; */
+    float: right;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}

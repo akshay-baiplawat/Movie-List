@@ -1,0 +1,31 @@
+.movies-list{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(237, 237, 238);
+    width: 100%;
+    height: auto;
+    align-items: center;
+    /* justify-content: space-between; */
+
+}
+.prosess{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    align-self: center;
+}
+.prosess2{
+    font-size: 100px;
+    opacity: 55%;
+    text-align: center;
+    
+    margin-top: 240px;
+    align-items: center;
+    align-self: center;
+}
+.my-loading-spinner{
+    
+}
