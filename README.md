@@ -1,84 +1,33 @@
 # About Project -> Movies List
 
 check out at https://movies-list-akshay-baiplawat.netlify.app/
+## Overview
+The Movie List project is a dynamic and user-friendly website designed for movie enthusiasts to search and explore detailed information about various movies and web series. The application leverages the OMDB API to provide comprehensive data, ensuring an engaging user experience.
 
-It is a movie listing website in we can search any movie or webseries and can know it's information such as IMDB rating, details, plot, etc.
-I have fetched the data from OMDB API.
-The tech stack used in this project includes HTML, CSS, JavaScript, React, React router and Material UI.
+### Features
+• Search Functionality: Easily search for movies and web series by title.\
+• Detailed Information: View detailed information including plot, cast, ratings, and more.\
+• Responsive Design: Optimized for various devices to provide a seamless user experience.\
+• Interactive UI: Intuitive and engaging interface with smooth navigation.\
 
-# Getting Started with Create React App
+### Technologies Used
+• Frontend: React, React Router, Material UI, JavaScript, HTML, CSS\
+• API Integration: OMDB API\
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Movies-List
->>>>>>> ea151dc57474a677cb1bdd896e7c3c560dd50614
-=======
-# Movies-List
->>>>>>> 7cd8e5fcf7577e9b33780eba31d0ba02530ac923
+### Installation
+Clone the Repository
+```bash
+git clone https://github.com/akshay-baiplawat/Movie-List.git
+```
+Navigate to the Project Directory
+```bash
+cd Movie-List
+```
+Install Dependencies
+```bash
+npm install
+```
+Start the Application
+```bash
+npm start
+```
